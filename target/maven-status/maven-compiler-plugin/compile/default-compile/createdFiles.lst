@@ -1,0 +1,3 @@
+io/metersphere/plugin/grpc/UiScriptApiImpl.class
+io/metersphere/plugin/grpc/sampler/MsGrpcSampler.class
+io/metersphere/plugin/grpc/utils/ElementUtil.class

@@ -1,0 +1,11 @@
+{
+  "form": {
+    "inline": false,
+    "labelPosition": "right",
+    "size": "mini",
+    "labelWidth": "125px",
+    "hideRequiredAsterisk": false,
+    "showMessage": true,
+    "inlineMessage": false
+  }
+}

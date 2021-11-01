@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmeter-grpc-request-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/jmeter-grpc-request-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
